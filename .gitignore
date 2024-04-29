@@ -1,0 +1,20 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook-specific
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# Model artifacts
+models/
+
+# Environment-specific
+venv/
+.env
+
+# Miscellaneous
+.DS_Store
