@@ -15,6 +15,7 @@ models/
 # Environment-specific
 venv/
 .env
+venv*
 
 # Miscellaneous
 .DS_Store
